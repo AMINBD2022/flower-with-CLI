@@ -337,9 +337,6 @@
   .bg-white {
     background-color: var(--color-white);
   }
-  .bg-\[url\(\.\.\/images\/news-letter-bg\.png\)\] {
-    background-image: url(../images/news-letter-bg.png);
-  }
   .bg-\[url\(\.\/images\/deal-ana\.png\)\] {
     background-image: url(./images/deal-ana.png);
   }
@@ -348,6 +345,9 @@
   }
   .bg-\[url\(\.\/images\/deal-zabo\.png\)\] {
     background-image: url(./images/deal-zabo.png);
+  }
+  .bg-\[url\(\.\/images\/news-letter-bg\.png\)\] {
+    background-image: url(./images/news-letter-bg.png);
   }
   .bg-cover {
     background-size: cover;
